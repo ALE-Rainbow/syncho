@@ -1,5 +1,5 @@
 {
-  "name": "syncho",
+  "name": "@ale-rainbow/syncho",
   "version": "0.2.6",
   "description": "Fast and lean abstraction for node Fibers. Easily run asynchronous functions synchronously.",
   "author": "Jerome Touffe-Blin <jtblin@gmail.com> (http://about.me/jtblin)",
@@ -32,7 +32,7 @@
   "devDependencies": {
     "chai": "~1.10.0",
     "istanbul": "^0.3.2",
-    "mocha": "~2.1.0",
+    "mocha": "^6.1.4",
     "sinon": "^1.12.0",
     "sinon-chai": "^2.6.0"
   },
